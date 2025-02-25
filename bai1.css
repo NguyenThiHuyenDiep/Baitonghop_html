@@ -1,0 +1,43 @@
+.contain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+    height: 120px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.c1 {
+    padding-left: 106px;
+}
+
+.c3 {
+    margin-left: 1300px;
+    margin-bottom: 0px;
+}
+
+.c4 {
+    padding-right: 24px;
+}
+
+.c2 {
+    margin-bottom: 50px;
+    padding-left: 400px;
+}
+
+.body {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    padding-right: 332px;
+}
